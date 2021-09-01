@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Aniruddha Mahapatra** on Aniruddha Mahapatra</title>
+    <link>https://anime26398.github.io/authors/aniruddha-mahapatra/</link>
+    <description>Recent content in **Aniruddha Mahapatra** on Aniruddha Mahapatra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://anime26398.github.io/authors/aniruddha-mahapatra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unsupervised Domain Adaptation for Remote Sensing Images Using Metric Learning and Correlation Alignment</title>
+      <link>https://anime26398.github.io/publication/ncvpripg19/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://anime26398.github.io/publication/ncvpripg19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of Sentinel-1 and Sentinel-2 Satellite Imagery for Crop Classification in Indian Region During Kharif and Rabi Crop Cycles</title>
+      <link>https://anime26398.github.io/publication/igarss19/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://anime26398.github.io/publication/igarss19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
